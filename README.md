@@ -4,7 +4,7 @@ This repository contains the benchmark instances used in the experimental evalua
 
 **"Model-based Explanation Generation for Stable Roommates Problems"**
 
-The table below maps each benchmark set to the corresponding tables and figures in the paper:
+The table below maps each table and figure in the paper to the benchmark set considered in the evaluation, together with a brief description.
 
 | Table / Figure | Benchmark Set | Description |
 | :--- | :--- | :--- |
