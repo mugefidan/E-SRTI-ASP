@@ -9,12 +9,12 @@ The table below maps each benchmark set to the corresponding tables and figures 
 | Table / Figure | Benchmark Set | Description |
 | :--- | :--- | :--- |
 | **Table 3**  | [Benchmark Set 1](./benchmark%20instances/Benchmark%20Set%201) | Computational performance of `E-SRTI-ASP` for `wh*` queries |
-| **Table 4**  | [Benchmark Set 2] | Computational performance of `E-SRTI-ASP` for `wh*` queries |
-| **Table 5**  | [Benchmark Set 3] | Computational performance of `E-SRTI-ASP` for `whynone` queries |
-| **Table 6**  | [Benchmark Set 1] | Computational performance of `E-SRTI-ASP` for `howfair` queries |
-| **Figure 4**  | [Benchmark Set 1] | Scalability of `E-SRTI-ASP` for `whatif` queries |
-| **Figure 5**  | [Benchmark Set 1] & [Benchmark Set 2] | Grounding time and program size for `whatif` queries  |
-| **Figure 6**  | [Benchmark Set 1] | Scalability of `E-SRTI-ASP` for `howfair` queries|
+| **Table 4**  | [Benchmark Set 2](./benchmark%20instances/Benchmark%20Set%202) | Computational performance of `E-SRTI-ASP` for `wh*` queries |
+| **Table 5**  | [Benchmark Set 3](./benchmark%20instances/Benchmark%20Set%203) | Computational performance of `E-SRTI-ASP` for `whynone` queries |
+| **Table 6**  | [Benchmark Set 1](./benchmark%20instances/Benchmark%20Set%201) | Computational performance of `E-SRTI-ASP` for `howfair` queries |
+| **Figure 4**  | [Benchmark Set 1](./benchmark%20instances/Benchmark%20Set%201) | Scalability of `E-SRTI-ASP` for `whatif` queries |
+| **Figure 5**  | [Benchmark Set 1](./benchmark%20instances/Benchmark%20Set%201) & [Benchmark Set 2](./benchmark%20instances/Benchmark%20Set%202) | Grounding time and program size for `whatif` queries  |
+| **Figure 6**  | [Benchmark Set 1](./benchmark%20instances/Benchmark%20Set%201) | Scalability of `E-SRTI-ASP` for `howfair` queries|
 
 
 Further details about the generation of the benchmark instances and the experimental setup are provided in the paper.
